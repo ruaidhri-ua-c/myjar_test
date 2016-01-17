@@ -1,0 +1,16 @@
+{
+    "name": "rory/myjar_test",
+    "require": {
+        "videlalvaro/php-amqplib": "^2.6"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.1",
+        "squizlabs/php_codesniffer": "2.*"
+    },
+    "authors": [
+        {
+            "name": "Rory O'Connor",
+            "email": "ruaidhrioconnor@gmail.com"
+        }
+    ]
+}
